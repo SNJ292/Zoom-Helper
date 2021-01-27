@@ -1,7 +1,7 @@
 # Zoom Helper Google Extension
 
-# Group Members
-## [Samir Jaber](https://www.linkedin.com/in/samir-jaber-385a001ab/), [Eyoab Asrat](https://www.linkedin.com/in/eyoab-asrat/), [Nathanael Temesgen](https://www.linkedin.com/in/nathanael-temesgen/), [Noh Mesfin](https://www.linkedin.com/in/noh-mesfin-a91bbb1b2/)
+## Group Members
+### [Samir Jaber](https://www.linkedin.com/in/samir-jaber-385a001ab/), [Eyoab Asrat](https://www.linkedin.com/in/eyoab-asrat/), [Nathanael Temesgen](https://www.linkedin.com/in/nathanael-temesgen/), [Noh Mesfin](https://www.linkedin.com/in/noh-mesfin-a91bbb1b2/)
 
 ![Extension Screen Shot](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/284/139/datas/gallery.jpg)
 
